@@ -1,0 +1,11 @@
+img {
+  width: 200px;
+  height: 200px;
+}
+
+.news {
+  border: 1px solid blue;
+  display: flex;
+  margin: 10px 0px;
+  cursor: pointer;
+}
